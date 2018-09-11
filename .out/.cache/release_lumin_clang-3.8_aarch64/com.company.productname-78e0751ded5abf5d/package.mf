@@ -1,0 +1,235 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/jonathanblair/MagicLeap/mlsdk/v0.16.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "550b199a0003c012912da5f9d153e7ff312df380",
+   "xfrm_path": "/Users/jonathanblair/mun-git/Leveler/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-78e0751ded5abf5d/libc++_shared.so-59058b13a45d532b",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "4179f0df6b8e498178bc7aba573d561477e65977",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2053652,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "b1995e67c50e6503ad806df0775cca22682f1ad1",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 23513960,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f8f362ff9c04e74c219c4d6a5986f0bc8efcb48c",
+   "xfrm_path": "/Users/jonathanblair/mun-git/Leveler/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-78e0751ded5abf5d/libil2cpp.so-f5ab92da5b8d5751",
+   "xfrm_size": 23514718
+  },
+  {
+   "compression": 8,
+   "hash": "f40eb17b43113196d3596610f2e2ef67448f5d1a",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "ed19c075c8e38dde3841888614364d15cc7538a0",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "8c442df867d48e5c05369ecf7257288e2e2ee6dd",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728952,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1cc9ef35966514adb34e0998cef3cc332e216402",
+   "xfrm_path": "/Users/jonathanblair/mun-git/Leveler/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-78e0751ded5abf5d/UnityMagicLeap.so-4191e346dd2e1fba",
+   "xfrm_size": 729710
+  },
+  {
+   "compression": 8,
+   "hash": "dd16fc5a22220fad38161f73afa74926cb2eda96",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "657b27c3edc09408da65fc80c98c80d11cd5b204",
+   "xfrm_path": "/Users/jonathanblair/mun-git/Leveler/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-78e0751ded5abf5d/libml_camera_plugin.so-4191e346dd2e1fba",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "affee7f7610bd12f2b914f61c1b34ca32a72e424",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 30528,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7ab76a69b7d61c4cc733d68c0a0a186c373f2985",
+   "xfrm_path": "/Users/jonathanblair/mun-git/Leveler/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-78e0751ded5abf5d/libml_mediaplayer_plugin.so-4191e346dd2e1fba",
+   "xfrm_size": 31286
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc8d956e48e76474f190e96cb3b127735edb7bfc",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308252,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "06b042da53cc28c7863fb442364c6be27f8e8f4a",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 293308,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "0755f3963da38b97242fb69fdfc5de88ff187c01",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 30464,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "6d3865c057e7289da396800012f4d8a31d0bcd7c",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 27820,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "7b34a73edfc287d7b172e36fbcf17d65a718b672",
+   "pkgpath": "Data/level0",
+   "size": 7436,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "ce62c4a0641d5f3fa464f6d6c2cf85dce2990665",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 7752,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4b680f8849d213bee8939f2b0cd869f7bc9a7e2",
+   "pkgpath": "bin/Player.elf",
+   "size": 22055960,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "706fc1fa9297cf3e5f9156931befbad13ace131e",
+   "xfrm_path": "/Users/jonathanblair/mun-git/Leveler/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-78e0751ded5abf5d/Player.elf-9d850d3a90f41004",
+   "xfrm_size": 22056718
+  },
+  {
+   "compression": 8,
+   "hash": "ea26f49bf6b38d86090f828aab12864e3e8136db",
+   "pkgpath": "manifest.xml",
+   "size": 1490,
+   "src": "/Users/jonathanblair/mun-git/Leveler/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "ecaeb739fb985f28295a2611c5f14f39cb91342c",
+     "developer_id": "temporarycertificates"
+    }
+   },
+   "xfrm_hash": "854eb261627da82b2908293fdde557b2011254d6",
+   "xfrm_path": "/Users/jonathanblair/mun-git/Leveler/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-78e0751ded5abf5d/manifest.xml-9d850d3a90f41004",
+   "xfrm_size": 1488
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/jonathanblair/TempSharedCert/TempSharedCert.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
